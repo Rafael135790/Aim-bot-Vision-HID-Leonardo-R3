@@ -6,7 +6,7 @@ https://github.com/user-attachments/assets/5099bc9b-5ce7-4ac0-b511-a5e021f3cb9e
 
 como vou mostrar a seguir tudo  pode ser modificado, a versao apresentada tenta ser o mais humano possivel
 
-##caracteristicas 
+## caracteristicas 
 Projeto experimental de **visão computacional em tempo real** com integraçao ao **Arduino Leonardo R3** para transporte de comandos via **HID/RawHID**, com foco em:
 
 - baixa latência;
