@@ -324,3 +324,5 @@ Este projeto é apresentado como estudo técnico de:
 - USB nativo do ATmega32U4;
 - integração entre software Python e firmware embarcado;
 - recuperação de barramento USB e robustez de execução.
+  #PERIGO
+- QUALQUER USO INDEVIDO EM JOGOS FPS E TOTALMENTE RESPONSABILIDADE DO USUARIO
