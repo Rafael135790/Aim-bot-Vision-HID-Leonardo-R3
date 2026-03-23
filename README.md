@@ -346,5 +346,4 @@ Responsabilidade: O autor deste repositório não se responsabiliza por qualquer
 Ao baixar ou utilizar este código, o usuário assume total responsabilidade por suas ações.
 ## Contato
 
-- Email: [rafael@email.com](moreirarheinheimer@gmail.com
-)
+[moreirarheinheimer@gmail.com]
