@@ -237,8 +237,6 @@ Mesmo quando poucos bytes carregam informação útil, o uso de pacotes fixos de
 
 Além do sketch, este projeto inclui modificações em arquivos do core USB usados pelo Leonardo R3.
 
-Essas alterações afetam diretamente:
-
 ### Otimização de Performance:  
 - Upgrade para 16-bitAnteriormente: o sistema operava com coordenadas de 8-bit (-127 a 127). Atualizei a
 lógica de processamento para 16-bit (-32767 a 32767), o que traz melhorias críticas
