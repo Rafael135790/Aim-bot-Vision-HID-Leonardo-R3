@@ -2,6 +2,8 @@
 video de funcionamento 
 
 https://github.com/user-attachments/assets/5099bc9b-5ce7-4ac0-b511-a5e021f3cb9e
+
+
 como vou mostrar a seguir tudo  pode ser modificado, a versao apresentada tenta ser o mais humano possivel
 
 ##caracteristicas 
